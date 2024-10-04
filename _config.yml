@@ -1,7 +1,7 @@
-domain: ttchengab.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://ttchengab.github.io 
+domain: jialuwang123321.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://jialuwang123321.github.io 
 # Basic Information
-title: Ta-Ying Cheng
+title: Jialu Wang
 position: D.Phil. Student
 affiliation: University of Oxford
 email: ta-ying.cheng [at] cs.ox.ac.uk
@@ -21,7 +21,8 @@ linkedin: https://www.linkedin.com/in/tim-ta-ying-cheng-411857139/
 
 # Images (e.g., your profile picture and your website's favicon)
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
-avatar: ./assets/img/avatar.png
+# avatar: ./assets/img/avatar.png
+avatar: ./assets/img/jialu.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
