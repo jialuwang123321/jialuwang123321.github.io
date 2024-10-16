@@ -40,7 +40,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">WSCLoc: Weakly-Supervised Sparse-View Camera Relocalization via Radiance Field</div>
-    <div class="author">**Jialu wang**, **Kaichen Zhou**, Andrew Markham and Niki Trigoni</div>
+    <div class="author">Jialu wang, Kaichen Zhou, Andrew Markham and Niki Trigoni</div>
     <div class="periodical"><em>(IROS 2024, Oral Presentation)</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2403.15272" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
