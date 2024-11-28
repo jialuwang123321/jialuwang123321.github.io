@@ -94,7 +94,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">REDLoc: TowardsRobust, Efficient, and Deployable Visual Localization</div>
+    <div class="title">REDLoc: Towards Robust, Efficient, and Deployable Visual Localization</div>
     <div class="author">Jialu Wang, Bing Wang, Niki Trigoni</div>
     <div class="periodical"><em>(Submitted to  CVPR 2025)</em></div>
     <div class="links">
