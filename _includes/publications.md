@@ -56,7 +56,10 @@
 
 </div>
 <br>
-  
+
+
+
+
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -67,7 +70,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">MambaLoc: Efficient Camera Localization with State Space Model for Edge-Cloud Collaborative IoT and Terminal Devices</div>
     <div class="author">Jialu wang, Kaichen Zhou, Andrew Markham and Niki Trigoni</div>
-    <div class="periodical"><em>(Submitted to TCSVT)</em></div>
+    <div class="periodical"><em>(Submitted to  RA-L)</em></div>
     <div class="links">
       <a href="https://arxiv.org/html/2408.09680v2" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
       <a href="https://youtu.be/5Yf-FXA-30?si=DHWnCPYndWJAoIz" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
@@ -81,6 +84,35 @@
 
 </div>
 <br>
+
+
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/paper_teasers/redloc.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">REDLoc</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">REDLoc: TowardsRobust, Efficient, and Deployable Visual Localization</div>
+    <div class="author">Jialu Wang, Bing Wang, Niki Trigoni</div>
+    <div class="periodical"><em>(Submitted to  CVPR 2025)</em></div>
+    <div class="links">
+      <!--<a href="https://arxiv.org/html/2408.09680v2" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="https://youtu.be/5Yf-FXA-30?si=DHWnCPYndWJAoIz" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
+       <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+    </div>
+  </div>
+
+</div>
+<br>
+
+
+
 
 </li>
 
